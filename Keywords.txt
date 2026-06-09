@@ -1,0 +1,18 @@
+Day 1:
+Server
+Is CSS render blocking?
+full stack: Module 12 webpage rendering
+MVC architecture
+backend frameworks
+bytecode
+BOM
+NODEJS
+js compiled or interpreted
+ExpressJS
+middleware
+version x.y.z system
+Backend Architecture(Service Layer,DAL (Data Access Layer),Schema,Database,API,Request-Response Cycle)
+DTO(ZOD)
+ORM vs ODM
+
+Day 2:
