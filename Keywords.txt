@@ -16,3 +16,58 @@ DTO(ZOD)
 ORM vs ODM
 
 Day 2:
+why use typescript
+types folder -> interface and entity
+
+Day 3:
+DRY principle
+DTO implementation
+url params, quary params, body params
+CORS
+express.json
+morgan - adds logs basic 
+CRUD - Create, Read, Update, Delete
+
+
+Database
+PG vector
+normalization
+anomalies
+redundency
+er diadrams 
+...
+
+Day 4:
+drizzle ORM and drizzle kit diff
+
+Database
+Redundency
+
+sql quarey to show 2nd heighest gpa from student using subquery
+
+Day 5:
+NODEJS
+ExpressJS
+Last module video of backend dev in nodejs full stack
+module 3 types internal external and userdefined
+exception error diff
+async await
+server app diff
+port & types
+SIGTERM SIGINT
+named and default import export
+helmet liberary
+cors and cors origin
+Domain vs Origin
+frontend to backend data sending
+http method and status code
+app.get and app.use diff
+
+
+Database:
+qurey planner optimizer
+explain analyse
+Btree indexing
+gin
+brin index
+Bm- BM25 (Best Matching 25) is a ranking algorithm used in full-text search to score how relevant a document is to a search query.
