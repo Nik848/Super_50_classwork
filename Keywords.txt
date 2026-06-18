@@ -71,3 +71,36 @@ Btree indexing
 gin
 brin index
 Bm- BM25 (Best Matching 25) is a ranking algorithm used in full-text search to score how relevant a document is to a search query.
+
+
+Day 6:
+https://docs.google.com/spreadsheets/d/1Eww4kB8bveetvDN2i5BDLAWiOqD86cdRz_vR0jLOYHg/edit?gid=0#gid=0
+end point vs routes diff
+React
+why we need React Dom tree and all
+react virtual dom
+virtual dom diff algorithm
+
+
+Day 7:
+Bundlers
+React is a single page app
+jsx
+react element and component
+props
+element normal vs react
+state management in react
+array methods padhne hai
+
+Day 8:
+Closure 
+Lexical scope
+react hook
+callback function module 12 -7 promisses and call back, crud opp
+use state and use effect
+
+
+Day 9:
+life cycle methods in react
+? is optional channing so map does not run if data is undefined
+stopwatch module 13 fullstack
