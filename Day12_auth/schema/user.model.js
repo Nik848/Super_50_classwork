@@ -1,0 +1,4 @@
+/* 
+drizzle model for user table
+
+*/

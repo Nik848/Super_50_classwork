@@ -1,0 +1,4 @@
+/* 
+dto to validate login request
+should have email and password
+*/

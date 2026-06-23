@@ -1,0 +1,4 @@
+/* 
+dto to validate registeration request
+should have email and password
+*/
